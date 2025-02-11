@@ -96,3 +96,11 @@ ROC-AUC Score: 0.9999749899959984
 ## **Results of the model**
 It predicts and differentiates between flu and non flu symptoms well
 ![Alt text](running_example.png?raw=true "Title")
+
+## **Future Improvements**
+- Incorporate real-time social media data
+- Use deep learning models (like LSTM) for advanced text analysis
+- Handle ambiguous text data with more robust preprocessing
+
+## **END NOTE**
+This project is done as a project report for my college assignment. This is one of the getting started approaches of how to classify text and the real world usecases it represnets. With a good quality dataset this model can be intergated into several dashboards which can help authorities in real-time. Any suggestions and help is greatly appreciated.
