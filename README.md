@@ -44,6 +44,10 @@ pip install -r requirements.txt
 python generate_dataset.py
 ```
 
+## **EDA STEP**
+```python
+python eda.py
+```
 ## **Training the model**
 ```bash
 python training_model.py
